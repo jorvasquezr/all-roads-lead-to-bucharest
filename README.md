@@ -1,4 +1,4 @@
-# Proyecto 1 - Ruta Optima
+# Proyecto 2 - Ruta Optima
 
 Instituto Tecnologico de Costa Rica
 
