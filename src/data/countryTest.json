@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Iasi",
+        "routes": [
+            {
+                "to": "Neamt",
+                "data": {
+                    "distance": 87,
+                    "status": 5,
+                    "danger": 3
+                }
+            },
+            {
+                "to": "Vaslui",
+                "data":{
+                    "distance":92,
+                    "status": 7,
+                    "danger": 4
+                }
+            }
+        ]
+    },
+    {
+        "name": "Vaslui",
+        "routes": [
+            {
+                "to": "Iasi",
+                "data": {
+                    "distance": 92,
+                    "status": 7,
+                    "danger": 4
+                }
+            },
+            {
+                "to": "Urziceni",
+                "data":{
+                    "distance":142,
+                    "status":5,
+                    "danger":2
+                }
+            }
+        ]
+    }
+]
