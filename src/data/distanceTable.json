@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Arad",
+        "distanceToBucarest": 366
+    },
+    {
+        "name": "Bucharest",
+        "distanceToBucarest": 0
+    },
+    {
+        "name": "Craiova",
+        "distanceToBucarest": 160
+    },
+    {
+        "name": "Dobreta",
+        "distanceToBucarest": 242
+    },
+    {
+        "name": "Eforie",
+        "distanceToBucarest": 161
+    },
+    {
+        "name": "Fagaras",
+        "distanceToBucarest": 176
+    },
+    {
+        "name": "Gorgiu",
+        "distanceToBucarest": 77
+    },
+    {
+        "name": "Hirsova",
+        "distanceToBucarest": 151
+    },
+    {
+        "name": "Iasi",
+        "distanceToBucarest": 226
+    },
+    {
+        "name": "Lugoj",
+        "distanceToBucarest": 244
+    },
+    {
+        "name": "Mehadia",
+        "distanceToBucarest": 241
+    },
+    {
+        "name": "Neamt",
+        "distanceToBucarest": 234
+    },
+    {
+        "name": "Oradea",
+        "distanceToBucarest": 380
+    },
+    {
+        "name": "Pitesti",
+        "distanceToBucarest": 100
+    },
+    {
+        "name": "Rimnicu Vilcea",
+        "distanceToBucarest": 193
+    },
+    {
+        "name": "Sibiu",
+        "distanceToBucarest": 253
+    },
+    {
+        "name": "Timisoara",
+        "distanceToBucarest": 329
+    },
+    {
+        "name": "Urziceni",
+        "distanceToBucarest": 80
+    },
+    {
+        "name": "Vaslui",
+        "distanceToBucarest": 199
+    },
+    {
+        "name": "Zerind",
+        "distanceToBucarest": 374
+    }
+]
