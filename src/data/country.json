@@ -95,7 +95,7 @@
                 }
             },
             {
-                "to":"Efoire",
+                "to":"Eforie",
                 "data":{
                     "distance":86,
                     "status":7,
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "name":"Efoire",
+        "name":"Eforie",
         "routes":[
             {
                 "to":"Hirsova",

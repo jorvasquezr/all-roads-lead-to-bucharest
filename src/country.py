@@ -5,7 +5,7 @@ class Country:
     def __init__(self):
         self.__cities = {}
         self.__amount = 0
-    
+
     def __iter__(self):
         return iter(self.__cities.values())
 
@@ -20,7 +20,7 @@ class Country:
         new_city = City(name)
         self.__cities[name] = new_city
         return new_city
-    
+
     def get_city(self, n):
         if (n in self.__cities):
             return self.__cities[n]
@@ -35,6 +35,6 @@ class Country:
 
         self.__cities[frm].add_neighbor(self.__cities[to], data)
         self.__cities[to].add_neighbor(self.__cities[frm], data)
-    
+
     def get_routes(self):
         return self.__cities.keys()
