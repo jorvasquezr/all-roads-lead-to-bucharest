@@ -14,5 +14,4 @@ IC-6200 Inteligencia Artificial
 
 2018102354 - Jorge Arturo Vasquez Rojas
 
-# Paquetes Importanets
 
